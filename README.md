@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning C lang
 - 📫 Reach me discord @maa.ki!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i use gentoo btw
