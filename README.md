@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning C lang
 - 📫 Reach me discord @maa.ki!
 - 😄 Pronouns: He/Him
+- 🌐 Website: https://maaki.0x.no
